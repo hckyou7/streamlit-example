@@ -6,7 +6,6 @@ import numpy as np
 st.title('Uber pickups in NYC')
 
 
-import matplotlib.pyplot as plt
 # Title for the Streamlit app
 st.title("Random Data Histogram")
 # Generate random data
