@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-st.title('Uber pickups in NYC')
+
 
 
 # Title for the Streamlit app
